@@ -1,6 +1,6 @@
 # Converting Google Maps Screenshot to 3D Model in a Single Jupyter Notebook
 
-### Recently, several high-quality monocular depth estimation models have been released, such as Apple's DepthPro. Inspired by this, I created a simple playground to experiment with generating point clouds and 3D models from aerial imagery—specifically Google Maps screenshots.
+**Recently, several high-quality monocular depth estimation models have been released, such as Apple's DepthPro. Inspired by this, I created a simple playground to experiment with generating point clouds and 3D models from aerial imagery—specifically Google Maps screenshots.**
 
 ### Pipeline Overview:
 1. Load the image
