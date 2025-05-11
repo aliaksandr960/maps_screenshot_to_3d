@@ -10,8 +10,8 @@
 5. Visualize the resulting mesh or point cloud
 
 
-*Plotly (Web): Enables in-notebook mesh viewing, but rendering is sometimes buggy—you may need to click buttons more than once to refresh.*
-*Open3D (GUI): Produces smooth and high-quality point clouds, but only runs locally. On Linux systems, you may need to configure environment variables.*
+- Plotly (Web): Enables in-notebook mesh viewing, but rendering is sometimes buggy—you may need to click buttons more than once to refresh.
+- Open3D (GUI): Produces smooth and high-quality point clouds, but only runs locally. On Linux systems, you may need to configure environment variables.
 
  ### Licensing:
  - The notebook code is released under the MIT License.
