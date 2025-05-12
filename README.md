@@ -10,7 +10,7 @@
 - Visible facades: Buildings should be viewed at an angle so that walls are visible — this is essential for generating accurate depth and texture in the 3D model.
 - Object scale: Ideally, one prominent building should occupy approximately 20% × 20% (0.2 × 0.2) of the image area for best resolution-to-structure balance.
 
-![Sample image](./sample_image.png)
+![Sample image](sample_image.png)
 
 ### Pipeline Overview:
 1. Load the image
