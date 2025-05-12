@@ -1,10 +1,9 @@
 # Converting Google Maps Screenshot to 3D Model in a Single Jupyter Notebook
+**This is an experimental setup, and the resulting 3D models may vary in quality — in many cases, they can look rough or distorted.**
 
 ![Reconstruction](docs/rec_sample.png)
 
 **Recently, several high-quality monocular depth estimation models have been released, such as Apple's DepthPro. Inspired by this, I created a simple playground to experiment with generating point clouds and 3D models from aerial imagery—specifically Google Maps screenshots.**
-
-**This is an experimental setup, and the resulting 3D models may vary in quality — in many cases, they can look rough or distorted.**
 
 ### Screenshot requrements:
 - Rectangular framing: The image should be roughly rectangular in shape to maintain alignment and avoid distortion.
